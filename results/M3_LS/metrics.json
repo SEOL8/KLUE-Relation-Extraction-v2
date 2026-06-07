@@ -1,0 +1,6 @@
+{
+  "model": "M3_LS",
+  "micro_f1": 0.7272,
+  "auprc": 0.7956,
+  "best_epoch": 1.0
+}
